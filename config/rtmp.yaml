@@ -1,0 +1,11 @@
+# Desired image width
+width: 640
+
+# Desired image height
+height: 480
+
+# Desired streaming rate
+fps: 10
+
+# Convert RGB images to graty before streaming
+toGray: False
