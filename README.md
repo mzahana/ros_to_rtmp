@@ -31,3 +31,6 @@ mpv   --msg-color=yes   --msg-module=yes   --keepaspect=yes   --no-correct-pts  
 ```
 
 The `rtmp://127.0.0.1/live/webcam` should match the stream url in the launch file `rtmp_url`
+
+# TODO
+- [ ] Add ROS services to configure the stream. For example, change of resolution, fps, image size, ...
